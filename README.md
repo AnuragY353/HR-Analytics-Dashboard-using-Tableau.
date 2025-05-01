@@ -16,11 +16,6 @@ The dataset contains HR records for **1,470 employees**. The dashboard is struct
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](https://drive.google.com/file/d/1Xze7X8F9NNnFcZ2jVVHuzP6newRIqT0b/view?usp=drive_link)
-
-
 ## 📌 Key Insights
 
 ### 📉 Attrition Overview
