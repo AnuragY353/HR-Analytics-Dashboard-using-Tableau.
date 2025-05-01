@@ -18,7 +18,7 @@ The dataset contains HR records for **1,470 employees**. The dashboard is struct
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview]([images/dashboard-preview.png](https://github.com/AnuragY353/HR-Analytics-Dashboard-using-Tableau./blob/main/Screenshot%20HR%20ANALYTICS%20DASHBOARD.png))
 
 
 ## 📌 Key Insights
