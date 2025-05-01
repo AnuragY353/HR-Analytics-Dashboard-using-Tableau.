@@ -2,7 +2,7 @@
 
 This project presents an interactive HR Analytics Dashboard built with Tableau and powered by structured Excel data. It offers valuable insights into employee demographics, attrition, performance, and satisfaction—designed to help HR professionals make data-driven decisions.
 
----
+--- 
 
 ## 🔍 Project Overview
 
@@ -15,6 +15,11 @@ The dataset contains HR records for **1,470 employees**. The dashboard is struct
 - Promotion and tenure patterns
 
 ---
+
+## 📷 Dashboard Preview
+
+![Dashboard Preview](images/dashboard-preview.png)
+
 
 ## 📌 Key Insights
 
